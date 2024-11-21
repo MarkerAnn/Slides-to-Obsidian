@@ -2,6 +2,10 @@
 
 This project converts PDF slides into a Markdown file with images. Each slide in the PDF is processed and saved as a high-quality image in a dedicated folder. Additionally, a Markdown file is created, referencing these images for easy integration into note-taking applications like Obsidian. The script ensures all images are organized in a specified folder, and the Markdown file is stored in a separate directory as per user-defined paths.
 
+### The final obsidian-file
+
+![example lecture screenshot](./images/exampleLecture.png)
+
 ## Requirements
 
 - Python 3.6 or higher
